@@ -11,7 +11,7 @@ spring:
     name: clouddemo-config-dept-client
    datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/springcloud_3
+    url: jdbc:mysql://localhost:3306/springcloud_1
     username: root
     password: mysql$123
     dbcp2:
